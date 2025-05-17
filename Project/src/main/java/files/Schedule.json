@@ -1,0 +1,442 @@
+[ {
+  "id" : 1,
+  "group_id" : 1,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 2,
+  "group_id" : 2,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 3,
+  "group_id" : 3,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 4,
+  "group_id" : 4,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 5,
+  "group_id" : 5,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 6,
+  "group_id" : 6,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 7,
+  "group_id" : 7,
+  "teacher_id" : 1,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 8,
+  "group_id" : 1,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 9,
+  "group_id" : 2,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 10,
+  "group_id" : 3,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 11,
+  "group_id" : 4,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 12,
+  "group_id" : 5,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 13,
+  "group_id" : 6,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 14,
+  "group_id" : 7,
+  "teacher_id" : 2,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 15,
+  "group_id" : 1,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 16,
+  "group_id" : 2,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 17,
+  "group_id" : 3,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 18,
+  "group_id" : 4,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 19,
+  "group_id" : 5,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 20,
+  "group_id" : 6,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 21,
+  "group_id" : 7,
+  "teacher_id" : 3,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Понедельник"
+}, {
+  "id" : 22,
+  "group_id" : 1,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 23,
+  "group_id" : 2,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 24,
+  "group_id" : 3,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 25,
+  "group_id" : 4,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 26,
+  "group_id" : 5,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 27,
+  "group_id" : 6,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 28,
+  "group_id" : 7,
+  "teacher_id" : 4,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 29,
+  "group_id" : 1,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 30,
+  "group_id" : 2,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 31,
+  "group_id" : 3,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 32,
+  "group_id" : 4,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 33,
+  "group_id" : 5,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 34,
+  "group_id" : 6,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 35,
+  "group_id" : 7,
+  "teacher_id" : 5,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 36,
+  "group_id" : 1,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 37,
+  "group_id" : 2,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 38,
+  "group_id" : 3,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 39,
+  "group_id" : 4,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 40,
+  "group_id" : 5,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 41,
+  "group_id" : 6,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 42,
+  "group_id" : 7,
+  "teacher_id" : 6,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Вторник"
+}, {
+  "id" : 43,
+  "group_id" : 1,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 44,
+  "group_id" : 2,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 45,
+  "group_id" : 3,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 46,
+  "group_id" : 4,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 47,
+  "group_id" : 5,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 48,
+  "group_id" : 6,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 49,
+  "group_id" : 7,
+  "teacher_id" : 7,
+  "startTime" : "8:30",
+  "endTime" : "10:00",
+  "weekDay" : "Среда"
+}, {
+  "id" : 50,
+  "group_id" : 1,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 51,
+  "group_id" : 2,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 52,
+  "group_id" : 3,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 53,
+  "group_id" : 4,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 54,
+  "group_id" : 5,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 55,
+  "group_id" : 6,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 56,
+  "group_id" : 7,
+  "teacher_id" : 8,
+  "startTime" : "10:10",
+  "endTime" : "11:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 57,
+  "group_id" : 1,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 58,
+  "group_id" : 2,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 59,
+  "group_id" : 3,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 60,
+  "group_id" : 4,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 61,
+  "group_id" : 5,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 62,
+  "group_id" : 6,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+}, {
+  "id" : 63,
+  "group_id" : 7,
+  "teacher_id" : 9,
+  "startTime" : "12:10",
+  "endTime" : "13:40",
+  "weekDay" : "Среда"
+} ]
